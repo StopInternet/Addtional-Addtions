@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "additional_addons:items/unnamed(1)"
+  }
+}
