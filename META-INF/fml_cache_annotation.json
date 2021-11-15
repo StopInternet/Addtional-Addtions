@@ -1,0 +1,572 @@
+{
+  "net/mcreator/additional_addons/MCreatorBlackplutonium": {
+    "name": "net/mcreator/additional_addons/MCreatorBlackplutonium",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:blackplutonium"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorBlackplutoniumDensePlate": {
+    "name": "net/mcreator/additional_addons/MCreatorBlackplutoniumDensePlate",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:blackplutoniumdenseplate"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorBlackplutoniumDust": {
+    "name": "net/mcreator/additional_addons/MCreatorBlackplutoniumDust",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:blackplutoniumdust"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorCatalyst1": {
+    "name": "net/mcreator/additional_addons/MCreatorCatalyst1",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:catalyst1"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorCatalyst2": {
+    "name": "net/mcreator/additional_addons/MCreatorCatalyst2",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:catalyst2"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorCatalyst3": {
+    "name": "net/mcreator/additional_addons/MCreatorCatalyst3",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:catalyst3"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorCatalyst4": {
+    "name": "net/mcreator/additional_addons/MCreatorCatalyst4",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:catalyst4"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorCatalyst5": {
+    "name": "net/mcreator/additional_addons/MCreatorCatalyst5",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:catalyst5"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorChaoticInfinityIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorChaoticInfinityIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:chaoticinfinityingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorChaoticIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorChaoticIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:chaoticingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorCronicleMatter": {
+    "name": "net/mcreator/additional_addons/MCreatorCronicleMatter",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:croniclematter"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorEncahntedEnderPearl": {
+    "name": "net/mcreator/additional_addons/MCreatorEncahntedEnderPearl",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:encahntedenderpearl"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorEnchamtedGoldIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorEnchamtedGoldIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:enchamtedgoldingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorEnchantedDiamond": {
+    "name": "net/mcreator/additional_addons/MCreatorEnchantedDiamond",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:enchanteddiamond"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorEnchantedIronIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorEnchantedIronIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:enchantedironingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorFeiniumIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorFeiniumIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:feiniumingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorGTCore": {
+    "name": "net/mcreator/additional_addons/MCreatorGTCore",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:gtcore"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorPhaseItems": {
+    "name": "net/mcreator/additional_addons/MCreatorPhaseItems",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:phaseitems"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorPigmanSword": {
+    "name": "net/mcreator/additional_addons/MCreatorPigmanSword",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:pigmansword"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorQuantumparts1": {
+    "name": "net/mcreator/additional_addons/MCreatorQuantumparts1",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:quantumparts1"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorQuantumparts2": {
+    "name": "net/mcreator/additional_addons/MCreatorQuantumparts2",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:quantumparts2"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorQuantumparts3": {
+    "name": "net/mcreator/additional_addons/MCreatorQuantumparts3",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:quantumparts3"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorQuantumparts4": {
+    "name": "net/mcreator/additional_addons/MCreatorQuantumparts4",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:quantumparts4"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorQuantumparts5": {
+    "name": "net/mcreator/additional_addons/MCreatorQuantumparts5",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:quantumparts5"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorSUDust": {
+    "name": "net/mcreator/additional_addons/MCreatorSUDust",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:sudust"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorSUIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorSUIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:suingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorSUPlate": {
+    "name": "net/mcreator/additional_addons/MCreatorSUPlate",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:suplate"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorSUlod": {
+    "name": "net/mcreator/additional_addons/MCreatorSUlod",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:sulod"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorStarIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorStarIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:staringot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorTransmitter": {
+    "name": "net/mcreator/additional_addons/MCreatorTransmitter",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:transmitter"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorUUMatter": {
+    "name": "net/mcreator/additional_addons/MCreatorUUMatter",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:uumatter"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorUltimateBooster": {
+    "name": "net/mcreator/additional_addons/MCreatorUltimateBooster",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:ultimatebooster"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorUltimateFood": {
+    "name": "net/mcreator/additional_addons/MCreatorUltimateFood",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:ultimatefood"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorUniversalIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorUniversalIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:universalingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorWallPanintparts": {
+    "name": "net/mcreator/additional_addons/MCreatorWallPanintparts",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:wallpanintparts"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/MCreatorZeluIngot": {
+    "name": "net/mcreator/additional_addons/MCreatorZeluIngot",
+    "annotations": [
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/registry/GameRegistry$ObjectHolder;",
+        "target": "block",
+        "value": {
+          "value": "additional_addons:zeluingot"
+        }
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/additional_addons": {
+    "name": "net/mcreator/additional_addons/additional_addons",
+    "interfaces": [
+      "net/minecraftforge/fml/common/IFuelHandler",
+      "net/minecraftforge/fml/common/IWorldGenerator"
+    ],
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod;",
+        "target": "net/mcreator/additional_addons/additional_addons",
+        "values": {
+          "acceptedMinecraftVersions": {
+            "value": "[1.12.2]"
+          },
+          "modid": {
+            "value": "additional_addons"
+          },
+          "version": {
+            "value": "1.0.0"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/SidedProxy;",
+        "target": "proxy",
+        "values": {
+          "clientSide": {
+            "value": "net.mcreator.additional_addons.ClientProxyadditional_addons"
+          },
+          "serverSide": {
+            "value": "net.mcreator.additional_addons.CommonProxyadditional_addons"
+          }
+        }
+      },
+      {
+        "type": "FIELD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$Instance;",
+        "target": "instance",
+        "value": {
+          "value": "additional_addons"
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerBiomes(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerEntities(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerPotions(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerSounds(Lnet/minecraftforge/event/RegistryEvent$Register;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "registerModels(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V"
+      }
+    ]
+  },
+  "net/mcreator/additional_addons/additional_addons$GuiHandler": {
+    "name": "net/mcreator/additional_addons/additional_addons$GuiHandler",
+    "interfaces": [
+      "net/minecraftforge/fml/common/network/IGuiHandler"
+    ]
+  }
+}
